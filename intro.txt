@@ -1,1 +1,2 @@
-This is my intro
+This is my intro.
+Another line in my intro.
